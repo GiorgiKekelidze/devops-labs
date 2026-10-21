@@ -1,0 +1,1 @@
+![CI Pipeline](https://github.com/GiorgiKekelidze/devops-labs/actions/workflows/ci.yml/badge.svg)
